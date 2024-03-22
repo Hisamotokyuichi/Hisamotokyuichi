@@ -1,6 +1,6 @@
-## oi eu sou o Isaque Kyuichi 
-- 🔭 Hoje trabalho como auxiliar de marmoraria.
-- 🌱 Estudando Engenharia de Software 
+## Oi eu sou o Isaque Kyuichi 
+- 🔭 Hoje trabalho como Lider de produção .
+- 🌱 Estudando Automação industrial. 
 - 📫 How to reach me: Hisamoto91@gmail.com
 
 <div align="center">
