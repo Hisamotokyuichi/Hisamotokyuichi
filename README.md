@@ -1,6 +1,6 @@
 ## Oi eu sou o Isaque Kyuichi 
 - 🔭 Hoje trabalho como Lider de produção .
-- 🌱 Estudando Automação industrial. 
+- 🌱 Estudando Análise Desenvolvimento de Sistema . 
 - 📫  Entre em contato comigo: Hisamoto91@gmail.com
 
 <div align="center">
