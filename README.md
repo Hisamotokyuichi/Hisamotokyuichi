@@ -1,7 +1,9 @@
 ## Oi eu sou o Isaque Kyuichi 
 - 🔭 Hoje trabalho como Lider de produção .
 - 🌱 Estudando Análise Desenvolvimento de Sistema . 
-- 📫  Entre em contato comigo: Hisamoto91@gmail.com
+- 📫 Entre em contato comigo: Hisamoto91@gmail.com 
+- 📲 Entre em contato tambem pelo whatzapp (51)98225-0426   
+
 
 <div align="center">
   <a href="https://github.com/HisamotoKyuichi">
