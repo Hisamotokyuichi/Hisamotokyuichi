@@ -3,7 +3,8 @@
 - 🌱 Estudando Análise Desenvolvimento de Sistema . 
 - 📫 Entre em contato comigo: Hisamoto91@gmail.com 
 - 📲 Entre em contato tambem pelo whatzapp (51)98225-0426 
--    Entre em contato pelo [Linkedin](https://www.linkedin.com/in/isaque-hisamoto-b08601204/)
+- 👨‍💼 Entre em contato pelo [Linkedin](https://www.linkedin.com/in/isaque-hisamoto-b08601204/)
+
 
 
 
