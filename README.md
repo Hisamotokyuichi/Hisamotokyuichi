@@ -11,12 +11,13 @@
 
 ## Minhas Tecnologias
 
-
-
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"px>
+</p>
+
+--------
 
 
 
@@ -27,3 +28,5 @@
   <a href="https://github.com/HisamotoKyuichi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HisamotoKyuichi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisamotokyuichi&layout=compact&langs_count=7&theme=dracula"/>
+  
+ ---------
